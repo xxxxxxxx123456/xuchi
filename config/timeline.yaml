@@ -313,7 +313,7 @@ presets:
     periods:
       afternoon_peek:
         name: "午后速览"
-        start: "15:00"
+        start: "12:00"
         end: "17:00"
         analyze: true              # AI 分析当前热点
         ai_mode: "current"         # AI 分析当前榜单
